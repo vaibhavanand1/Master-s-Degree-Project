@@ -1,2 +1,1 @@
-# Master-s-Degree-Project
-MTECH Thesis work
+MTech-Degree-Project
